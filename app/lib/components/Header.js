@@ -1,4 +1,4 @@
-
+'use client'
 export const Header = () => {
     return (
         <div className="p-4 flex justify-between items-center">
